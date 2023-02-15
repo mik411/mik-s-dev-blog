@@ -5,27 +5,27 @@ We learnt about what we would be learning in this module. We discovered about th
 `<p> for paragraphs`
 `<h1> - <h6> for headers, decreasing in size`
 `<img> for images, use either absolute or relative URL with src=””, use alt=”” for text  if image does not show, title=”” for hover text`
-<ul> unordered list
-<ol> ordered list
-<em> emphasis
-<strong> bold text
-<div> container unit
-<span> inline unit
-<table> table for information
-<tr> table row
-<th> table header
-<td> table data
-<iframe> inline frame
+`<ul> unordered list`
+`<ol> ordered list`
+`<em> emphasis`
+`<strong> bold text`
+`<div> container unit`
+`<span> inline unit`
+`<table> table for information`
+`<tr> table row`
+`<th> table header`
+`<td> table data`
+`<iframe> inline frame`
 
 
 Week 2:
 
 We learnt about the process of developing websites. We learnt tools such as inspect and what roles HTML and CSS plays in websites. Google fonts is place to import fonts.
 
-<header> use for stuff at the top of the page
-<article>  for news content,blog posts or articles
-<nav> for menu links
-<aside> for content indirectly related to main content
+`<header> use for stuff at the top of the page`
+`<article>  for news content,blog posts or articles`
+`<nav> for menu links`
+`<aside> for content indirectly related to main content`
 {colour} change colour
 {font-family} change font
 {font-style} specifies font style eg italics
@@ -79,9 +79,9 @@ toLowerCase() to make to lower case
 !== different value and different tyoe
 == same value 
 != different value
-> greater than
+`> greater than`
 < smaller than
->= greater or equals to
+`>= greater or equals to`
 <= smaller or equals to
 && and
 || or
