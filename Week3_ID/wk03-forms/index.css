@@ -1,0 +1,29 @@
+div
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    height: 550 px;
+    width: 400px;
+    border: 3px;
+    border-top: 0;   
+    border-style: solid;
+    border-color: blue;
+
+}
+
+#header
+{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: yellow;
+    height: 50px;
+    width: 400px;
+    border: 3px;
+    border-bottom: 0;   
+    border-style: solid;
+    border-color: blue;
+    margin:0
+}
+p
+{
+    margin-bottom: 0;
+}

@@ -1,0 +1,45 @@
+img
+{
+ border: 5px solid violet;
+}
+h1
+{
+background-color: red;
+}
+h2
+{
+background-color: orange;
+}
+#element
+{
+background-color: yellow;
+}
+h3
+{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+h4
+{
+background-color: green;
+}
+h5
+{
+background-color: blue;
+}
+h6
+{
+background-color: indigo;
+}
+.special
+{
+text-align: center;
+}
+ul
+{
+    color: gainsboro;
+}
+ol
+{
+    color: crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

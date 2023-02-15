@@ -1,1 +1,2 @@
-# mik-s-dev-blog
+
+<!DOCTYPE HTML>
