@@ -44,15 +44,15 @@ Relative moves elements around relative
 Absolute offset is relative to the entire browser window
 Fixed like absolute but doesn’t scroll with page
 
-<input> obtain input from user
+`<input> obtain input from user`
 text get text input
 date get date input
 color get color input
 file get file input
 checkbox  checkbox input
 radio mcq input
-<form> section to get user input
-<label> used to place captions on <input>
+`<form> section to get user input`
+`<label> used to place captions on <input>`
 required forces user to enter input
 {background} add background
 {border} add border
