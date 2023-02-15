@@ -1,10 +1,10 @@
- # Week 1:
+  Week 1:
 
 We learnt about what we would be learning in this module. We discovered about the concept of frontend development and about HTML,CSS and JavaScript. For CA we practiced making our first web page.
 
-<p> for paragraphs
-<h1> - <h6> for headers, decreasing in size
-<img> for images, use either absolute or relative URL with src=””, use alt=”” for text  if image does not show, title=”” for hover text
+`<p> for paragraphs`
+`<h1> - <h6> for headers, decreasing in size`
+`<img> for images, use either absolute or relative URL with src=””, use alt=”” for text  if image does not show, title=”” for hover text`
 <ul> unordered list
 <ol> ordered list
 <em> emphasis
@@ -168,4 +168,4 @@ Week 13
 Learnt about common mistakes when making websites
 
 Week 14
-Learnt about benefits and how to use Lottie animations
+Learnt about benefits and how to use Lottie animations */
